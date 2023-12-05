@@ -1,4 +1,4 @@
-package pl.adiro.day1;
+package pl.adiro;
 
 
 import java.io.File;
